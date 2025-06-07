@@ -26,14 +26,14 @@ Partial Class Form1
         Me.btnTicker = New System.Windows.Forms.Button()
         Me.btnPrice = New System.Windows.Forms.Button()
         Me.btnPE = New System.Windows.Forms.Button()
-        Me.CheckBox1 = New System.Windows.Forms.CheckBox()
+        Me.chkDescending = New System.Windows.Forms.CheckBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'lstBox
         '
         Me.lstBox.FormattingEnabled = True
-        Me.lstBox.Items.AddRange(New Object() {"MMA, price = 40.00, P/E = 8.00", "SBA, price = 42.00, P/E = 6.00", "LLT, price = 43.00, P/E = 8.60", "XYZ, price = 80.00, P/E = 4.00"})
+        Me.lstBox.Items.AddRange(New Object() {"MMA, price = 40.00, P/E = 8.00", "ABC, price =80.00. P/E = 4.00", "SBA, price = 42.00, P/E = 6.00", "LLT, price = 43.00, P/E = 8.60", "XYZ, price = 80.00, P/E = 4.00"})
         Me.lstBox.Location = New System.Drawing.Point(182, 61)
         Me.lstBox.Name = "lstBox"
         Me.lstBox.Size = New System.Drawing.Size(248, 95)
@@ -66,15 +66,15 @@ Partial Class Form1
         Me.btnPE.Text = "Sort by PE Ratio"
         Me.btnPE.UseVisualStyleBackColor = True
         '
-        'CheckBox1
+        'chkDescending
         '
-        Me.CheckBox1.AutoSize = True
-        Me.CheckBox1.Location = New System.Drawing.Point(195, 182)
-        Me.CheckBox1.Name = "CheckBox1"
-        Me.CheckBox1.Size = New System.Drawing.Size(110, 17)
-        Me.CheckBox1.TabIndex = 5
-        Me.CheckBox1.Text = "Descending order"
-        Me.CheckBox1.UseVisualStyleBackColor = True
+        Me.chkDescending.AutoSize = True
+        Me.chkDescending.Location = New System.Drawing.Point(195, 182)
+        Me.chkDescending.Name = "chkDescending"
+        Me.chkDescending.Size = New System.Drawing.Size(110, 17)
+        Me.chkDescending.TabIndex = 5
+        Me.chkDescending.Text = "Descending order"
+        Me.chkDescending.UseVisualStyleBackColor = True
         '
         'Label1
         '
@@ -91,7 +91,7 @@ Partial Class Form1
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(461, 221)
         Me.Controls.Add(Me.Label1)
-        Me.Controls.Add(Me.CheckBox1)
+        Me.Controls.Add(Me.chkDescending)
         Me.Controls.Add(Me.btnPE)
         Me.Controls.Add(Me.btnPrice)
         Me.Controls.Add(Me.btnTicker)
@@ -107,6 +107,6 @@ Partial Class Form1
     Friend WithEvents btnTicker As Button
     Friend WithEvents btnPrice As Button
     Friend WithEvents btnPE As Button
-    Friend WithEvents CheckBox1 As CheckBox
+    Friend WithEvents chkDescending As CheckBox
     Friend WithEvents Label1 As Label
 End Class

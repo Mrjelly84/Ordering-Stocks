@@ -10,3 +10,16 @@ C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\inte
 C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Ordering Stocks\bin\Debug\Ordering Stocks.xml
 C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Ordering Stocks\obj\Debug\Ordering Stocks.exe
 C:\Users\williamd\OneDrive - Affordable Window Systems\Documents\vb dot net\intermediate\Ordering Stocks\obj\Debug\Ordering Stocks.pdb
+C:\Users\willi\Source\Repos\Ordering-Stocks\bin\Debug\Ordering Stocks.exe.config
+C:\Users\willi\Source\Repos\Ordering-Stocks\bin\Debug\Ordering Stocks.exe
+C:\Users\willi\Source\Repos\Ordering-Stocks\bin\Debug\Ordering Stocks.pdb
+C:\Users\willi\Source\Repos\Ordering-Stocks\bin\Debug\Ordering Stocks.xml
+C:\Users\willi\Source\Repos\Ordering-Stocks\obj\Debug\Ordering Stocks.vbproj.AssemblyReference.cache
+C:\Users\willi\Source\Repos\Ordering-Stocks\obj\Debug\Ordering Stocks.exe.config
+C:\Users\willi\Source\Repos\Ordering-Stocks\obj\Debug\Ordering_Stocks.Form1.resources
+C:\Users\willi\Source\Repos\Ordering-Stocks\obj\Debug\Ordering_Stocks.Resources.resources
+C:\Users\willi\Source\Repos\Ordering-Stocks\obj\Debug\Ordering Stocks.vbproj.GenerateResource.cache
+C:\Users\willi\Source\Repos\Ordering-Stocks\obj\Debug\Ordering Stocks.vbproj.CoreCompileInputs.cache
+C:\Users\willi\Source\Repos\Ordering-Stocks\obj\Debug\Ordering Stocks.exe
+C:\Users\willi\Source\Repos\Ordering-Stocks\obj\Debug\Ordering Stocks.xml
+C:\Users\willi\Source\Repos\Ordering-Stocks\obj\Debug\Ordering Stocks.pdb
